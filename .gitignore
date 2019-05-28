@@ -2,3 +2,8 @@
 /Sample/Debug
 /WinLib/Release
 /WinLib/Debug
+/Release/Sample.exe
+/Release/Sample.pdb
+/Release/WinLib.lib
+/Sample.sdf
+/Sample.opensdf
